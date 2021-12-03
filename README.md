@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Basic Walking Dead Game
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project demonstrates a basic NFT game. I built it to explore and understand the potential of smart contracts and in particular how NFTs could potentially be a gamechanger in the gaming or metaverse space.
